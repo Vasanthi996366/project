@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://media.wired.com/photos/66e8471d6d9b407eddc4ee69/3:2/w_1280%2Cc_limit/LotusXWIREDTopArt.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+   background-size: 1525px;
+   color: black;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 100px;
+    max-width: 500px;
+    height: 300px;
+    border: 1px solid #9C9C9C;
+    background-color:gray;
+    margin-right: 100px;
+
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
